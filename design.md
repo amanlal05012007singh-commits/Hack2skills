@@ -1,4 +1,4 @@
-# System Design — NoteBridge
+# System Design - NoteBridge
 
 ## Architecture Overview
 NoteBridge follows a modular architecture to ensure efficient storage, processing, and retrieval of clinical notes. Each module is responsible for a specific function, making the system scalable and easy to maintain.
