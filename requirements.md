@@ -1,4 +1,4 @@
-#NoteBridge — Clinical Note Navigation System
+# NoteBridge — clinical note nevigation system
 
 ## Problem Statement
 Modern healthcare relies on continuous documentation, where multiple clinicians record patient information across different stages of care. Over time, these clinical notes grow in volume, making it difficult for doctors to quickly review past records during consultations. This can slow down workflows and make maintaining clinical context challenging.
